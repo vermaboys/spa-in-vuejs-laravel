@@ -16,4 +16,5 @@
 
 <style>
 .lg-text {font-size: 40px;margin-bottom: 15px;font-weight: 600;color:#000;}
+p{line-height: 26px;font-size: 20px;letter-spacing: 0px;font-weight: 600;font-style: normal;color: #000;}
 </style>
